@@ -348,7 +348,7 @@ public final class ImageUtilities {
     
     /**
      * Detects any edges within a given image with respect to the given 
-     * tolerance using a {@link ConvolveOp} implementation.
+     * tolerance using an {@link ConvolveOp} implementation.
      * 
      * @param src The image to perform the edge detect operation on.
      * @param tolerance The tolerance to use within the operation (usually 
