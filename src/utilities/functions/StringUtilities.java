@@ -28,7 +28,7 @@ public final class StringUtilities {
      * Don't let anyone instantiate this class.
      */
     private StringUtilities() {
-    
+        throw new UnsupportedOperationException("Can't instantiate this class");
     }
     
     /**

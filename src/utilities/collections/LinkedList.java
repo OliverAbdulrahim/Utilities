@@ -1,6 +1,3 @@
-/*
- * A fancy license header.
- */
 package utilities.collections;
 
 import java.io.Serializable;

@@ -1,6 +1,3 @@
-/*
- * A fancy license header.
- */
 package utilities.functions;
 
 import java.awt.RenderingHints;
@@ -36,7 +33,7 @@ public final class ImageUtilities {
      * Don't let anyone instantiate this class.
      */
     private ImageUtilities() { 
-    
+        throw new UnsupportedOperationException("Can't instantiate this class");
     }
     
     /**

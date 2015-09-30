@@ -50,7 +50,7 @@ public class Utilities {
      * Don't let anyone instantiate this class.
      */
     private Utilities() {
-    
+        throw new UnsupportedOperationException("Can't instantiate this class");
     }
     
     /**
